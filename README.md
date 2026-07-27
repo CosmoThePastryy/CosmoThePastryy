@@ -15,6 +15,9 @@ ${{\color{#5F58C8} KAI}}$
 <p align="center">
   ${{\color{#20A9EB} They}}$ ${{\color{#83FEEA} /}}$ ${{\color{#20A9EB} them}}$ ${{\color{#5F58C8} STRICTLY}}$
 
+  <p align="center">
+  ${{\color{#83FEEA} Nonbinary}}$ ${{\color{#20A9EB} +}}$ ${{\color{#83FEEA} Pansexual}}$
+
 <div align="center">
   <details>
     <summary>DNI</summary>
