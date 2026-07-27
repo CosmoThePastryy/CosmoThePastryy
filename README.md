@@ -23,3 +23,6 @@
   </details>
 </div>
 
+<p align="center">
+  
+  ![image alt](Başlıksız50_20260727161239.png)
