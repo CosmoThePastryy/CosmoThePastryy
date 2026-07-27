@@ -22,8 +22,9 @@ ${{\color{#5F58C8} KAI}}$
   <details>
     <summary>DNI</summary>
     <br>
-    <p align="left">
-      hey guys  aw
-    </p>
+    <p align="left"
+      <p align="center">
+      hi
+   </p>
   </details>
 </div>
