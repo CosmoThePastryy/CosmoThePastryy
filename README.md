@@ -7,7 +7,7 @@
 
   <p align="center">
 <details>
-<summary>Read more</summary>
+<summary>DNI</summary>
 
 Hey guys aww
 
