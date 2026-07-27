@@ -7,8 +7,9 @@
 
     
 <p align="center">
-  <details>
-<summary>DNI!</summary>
+  
+<details>
+<summary>Dni</summary>
 
 
 
