@@ -1,3 +1,3 @@
 <p align="center">
   
-  ![image alt](Snowtime_Cosmo-removebg-preview.png)
+  ![image alt](Başlıksız45_20260727142903.png)
