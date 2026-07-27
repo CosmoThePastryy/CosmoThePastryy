@@ -24,7 +24,7 @@ ${{\color{#5F58C8} KAI}}$
     <br>
     <p align="left"
       <p align="center">
-      hi
+      ${{\color{#83FEEA} Basic problematic criteria dni , People Who Harass me for being a Cosmo fictionkin , misgendering me on purpose , people who are ex / old friends with my friends , taking inspo / copying my ponys , people who hate on me because I yumeship ,}}$ ${{\color{#20A9EB} strawberrycookie shippers all dni nicely}}$ ${{\color{#83FEEA} , thankyou !}}$
    </p>
   </details>
 </div>
