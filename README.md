@@ -7,10 +7,9 @@
 
     
 <p align="center">
-  
 <details>
 <summary>DNI!</summary>
 
-
+hi guys aww idk still wip
 
 </details>
