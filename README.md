@@ -9,7 +9,7 @@
 <p align="center">
   
 <details>
-<summary>Dni</summary>
+<summary>DNI!</summary>
 
 
 
