@@ -7,16 +7,16 @@
   ![image alt](Başlıksız4_20260823130810.png)
 
   <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFB&width=435&lines=%22I+Think+That+Was+Uhm%2C+Good+Enough%3F%22;%22I+Wish+I+Was+Baking+Right+Now!%22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EAF871&width=435&lines=%22+I+Wish+I+Was+Baking+Right+Now!+%22;%22+I+Think+That+Was+Uhm%2C+Good+Enough%3F+%22" alt="Typing SVG" /></a>
 
 <p align="center">
-${{\color{#5F58C8} KAI}}$ 
+${{\color{#6FF5B8} KAI⠀ or⠀COSMO}}$ 
 
 <p align="center">
-  ${{\color{#20A9EB} They}}$ ${{\color{#83FEEA} /}}$ ${{\color{#20A9EB} them}}$ ${{\color{#5F58C8} STRICTLY}}$
-
+  ${{\color{#FFB3B6} They⠀/⠀Them}}$
+  
   <p align="center">
-  ${{\color{#83FEEA} Nonbinary}}$ ${{\color{#20A9EB} +}}$ ${{\color{#83FEEA} Pansexual}}$
+  ${{\color{#69F5B5} Nonbinary}}$ ${{\color{#EEF375}+}}$ ${{\color{#69F5B5} Pansexual}}$
 
 <div align="center">
   <details>
@@ -24,8 +24,7 @@ ${{\color{#5F58C8} KAI}}$
     <br>
     <p align="left"
       <p align="center">
-      ${{\color{#83FEEA} Basic}}$ ${{\color{#20A9EB} problematic}}$ ${{\color{#5F58C8} criteria}}$ ${{\color{#83FEEA} dni}}$ ${{\color{#20A9EB} , }}$ ${{\color{#5F58C8} People}}$ ${{\color{#83FEEA} Who}}$ ${{\color{#20A9EB} Harass}}$ ${{\color{#5F58C8} me}}$ ${{\color{#83FEEA} for}}$ ${{\color{#20A9EB} being}}$ ${{\color{#5F58C8} a}}$ ${{\color{#83FEEA} Cosmo}}$ ${{\color{#20A9EB} fictionkin}}$ ${{\color{#5F58C8} ,}}$ ${{\color{#20A9EB} misgendering}}$ ${{\color{#5F58C8} me}}$ ${{\color{#83FEEA} on}}$ ${{\color{#20A9EB} purpose}}$ ${{\color{#5F58C8} ,}}$ ${{\color{#83FEEA} people}}$ ${{\color{#20A9EB} who}}$ ${{\color{#83FEEA} are}}$ ${{\color{#83FEEA} ex}}$ ${{\color{#83FEEA} /}}$ ${{\color{#83FEEA} old}}$ ${{\color{#83FEEA} friends}}$ ${{\color{#83FEEA} with}}$ ${{\color{#83FEEA} my}}$ ${{\color{#83FEEA} friends}}$ ${{\color{#83FEEA} ,}}$ ${{\color{#83FEEA} inspo}}$ ${{\color{#83FEEA} /}}$ ${{\color{#83FEEA} copy}}$ ${{\color{#83FEEA} ,}}$ ${{\color{#83FEEA} people}}$ ${{\color{#83FEEA} who}}$ ${{\color{#83FEEA} hate}}$ ${{\color{#83FEEA} on}}$ ${{\color{#83FEEA} me}}$ ${{\color{#83FEEA} because}}$ ${{\color{#83FEEA} I}}$ ${{\color{#83FEEA} yumeship}}$ ${{\color{#83FEEA} , }}$ ${{\color{#20A9EB} strawberrycookie}}$ ${{\color{#20A9EB} shippers}}$ ${{\color{#20A9EB} all}}$ ${{\color{#20A9EB} dni}}$ ${{\color{#20A9EB} nicely}}$ ${{\color{#83FEEA} ,}}$ ${{\color{#83FEEA} thankyou !}}$ 
-      ${{\color{#83FEEA} Also}}$ ${{\color{#20A9EB} note}}$ ${{\color{#20A9EB} I}}$ ${{\color{#20A9EB} have}}$ ${{\color{#20A9EB} ADHD}}$ ${{\color{#20A9EB} ,}}$ ${{\color{#20A9EB} dyslexia}}$ ${{\color{#20A9EB} and}}$ ${{\color{#20A9EB} I}}$ ${{\color{#20A9EB} have}}$ ${{\color{#20A9EB} been}}$ ${{\color{#20A9EB} depressed}}$ ${{\color{#20A9EB} since}}$ ${{\color{#20A9EB} 7}}$ ${{\color{#20A9EB} years}}$ ${{\color{#20A9EB} ,}}$ ${{\color{#20A9EB} I}}$ ${{\color{#20A9EB} have}}$ ${{\color{#20A9EB} been}}$ ${{\color{#20A9EB} diagnosed}}$ ${{\color{#20A9EB} with}}$ ${{\color{#20A9EB} all}}$ ${{\color{#20A9EB} of}}$ ${{\color{#20A9EB} these}}$ ${{\color{#20A9EB} from}}$ ${{\color{#20A9EB} a}}$ ${{\color{#20A9EB} therapist}}$ ${{\color{#20A9EB} ,}}$ ${{\color{#20A9EB} please}}$ ${{\color{#20A9EB} do}}$ ${{\color{#20A9EB} not}}$ ${{\color{#20A9EB} make}}$ ${{\color{#83FEEA} fun}}$ ${{\color{#83FEEA} of}}$ ${{\color{#83FEEA} what}}$ ${{\color{#83FEEA} I}}$ ${{\color{#83FEEA} have!}}$
+      
    </p>
   </details>
 </div>
