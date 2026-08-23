@@ -13,11 +13,14 @@
 ${{\color{#6FF5B8} KAI⠀ or⠀COSMO}}$ 
 
 <p align="center">
-  ${{\color{#FFB3B6} They⠀/⠀Them}}$
+  ${{\color{#FFB3B6} They}}$ ${{\color{#EEF375} /}}$ ${{\color{#FFB3B6}⠀Them}}$ ${{\color{#69F5B5} Nonbinary}}$ ${{\color{#EEF375}+}}$ ${{\color{#69F5B5} Pansexual}}$
+  
   
   <p align="center">
-  ${{\color{#69F5B5} Nonbinary}}$ ${{\color{#EEF375}+}}$ ${{\color{#69F5B5} Pansexual}}$
-
+    <img src="https://pixels.crd.co/assets/images/gallery44/017f8ac2.gif?v=29416114" width="20" alt="App Demo"> ${{\color{#EEF375} •⠀Basic⠀ Dni⠀Criteria}}$ ⠀ ⠀ ⠀
+  
+  <p align="center">
+    
 <div align="center">
   <details>
     <summary>DNI</summary>
