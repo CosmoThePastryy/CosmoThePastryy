@@ -25,7 +25,8 @@ ${{\color{#6FF5B8} KAI⠀ or⠀COSMO}}$
   <details>
     <summary>DNI</summary>
     <br>
-    <p align="left"
+this is wip Kai pls don't slime me ok 
+  <p align="left"
       <p align="center">
       
    </p>
