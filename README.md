@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=https%3A%2F%2Fgithub.com%2FCosmoThePastryy&left_text=%F0%9D%90%B6%F0%9D%91%A2%F0%9D%91%A0%F0%9D%91%A1%F0%9D%91%9C%F0%9D%91%9A%F0%9D%91%92%F0%9D%91%9F%F0%9D%91%A0&left_color=%2378ffe6&right_color=%237367db&height=22" alt="visitor badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=https%3A%2F%2Fgithub.com%2FCosmoThePastryy&left_text=Customers&left_color=%236FF5B8&right_color=%23EEF375" alt="visitor badge"/>
 
 
 <p align="center">
@@ -13,14 +13,14 @@
 ${{\color{#6FF5B8} KAI⠀ or⠀COSMO}}$ 
 
 <p align="center">
-  ${{\color{#FFB3B6} They}}$ ${{\color{#EEF375} /}}$ ${{\color{#FFB3B6}⠀Them}}$ ${{\color{#69F5B5} Nonbinary}}$ ${{\color{#EEF375}+}}$ ${{\color{#69F5B5} Pansexual}}$
+  ${{\color{#FFB3B6} They}}$ ${{\color{#EEF375} /}}$ ${{\color{#6FF5B8} Them}}$ ${{\color{#FFB3B6} Nonbinary}}$ ${{\color{#EEF375}+}}$ ${{\color{#69F5B5} Pansexual}}$
   
   
   <p align="center">
-    <img src="https://pixels.crd.co/assets/images/gallery44/017f8ac2.gif?v=29416114" width="20" alt="App Demo"> ${{\color{#EEF375} •⠀Basic⠀ Dni⠀Criteria}}$ ⠀ ⠀ ⠀
+    <img src="https://pixels.crd.co/assets/images/gallery44/017f8ac2.gif?v=29416114" width="20" alt="App Demo"> ${{\color{#EEF375} •}}$ ${{\color{#6FF5B8} Basic}}$ ${{\color{#EEF375} Dni}}$ ${{\color{#FFB3B6} Criteria}}$
   
   <p align="center">
-  <img src="https://pixels.crd.co/assets/images/gallery14/680355e0.gif?v=29416114" width="20" alt="App Demo"> ${{\color{#EEF375} •⠀I⠀ Block⠀Freely}}$
+  <img src="https://pixels.crd.co/assets/images/gallery14/680355e0.gif?v=29416114" width="20" alt="App Demo"> ${{\color{#EEF375} •}}$ ${{\color{#6FF5B8} I}}$ ${{\color{#EEF375} Block}}$ ${{\color{#FFB3B6} Freely}}$
 
   <p align="center"> 
-  <img src="https://pixels.crd.co/assets/images/gallery122/a51277e0.gif?v=29416114" width="25" alt="App Demo"> ${{\color{#EEF375} •⠀CxH ⠀Freely⠀ unless⠀dniup/f}}$
+  <img src="https://pixels.crd.co/assets/images/gallery122/a51277e0.gif?v=29416114" width="25" alt="App Demo"> ${{\color{#EEF375} •}}$ ${{\color{#6FF5B8} CxH }}$ ${{\color{#EEF375} Freely}}$ ${{\color{#FFB3B6} Unless}}$ ${{\color{#EEF375} Dniupf}}$
