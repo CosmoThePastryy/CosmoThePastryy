@@ -13,7 +13,7 @@
 ${{\color{#6FF5B8} KAI⠀ or⠀COSMO}}$ 
 
 <p align="center">
-  ${{\color{#FFB3B6} They}}$ ${{\color{#EEF375} /}}$ ${{\color{#6FF5B8} Them}}$ ${{\color{#FFB3B6} Nonbinary}}$ ${{\color{#EEF375}+}}$ ${{\color{#69F5B5} Pansexual}}$
+  ${{\color{#FFB3B6} Nonbinary}}$ ${{\color{#EEF375}+}}$ ${{\color{#69F5B5} Pansexual}}$
   
   
   <p align="center">
