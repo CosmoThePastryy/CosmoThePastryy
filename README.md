@@ -20,15 +20,7 @@ ${{\color{#6FF5B8} KAI⠀ or⠀COSMO}}$
     <img src="https://pixels.crd.co/assets/images/gallery44/017f8ac2.gif?v=29416114" width="20" alt="App Demo"> ${{\color{#EEF375} •⠀Basic⠀ Dni⠀Criteria}}$ ⠀ ⠀ ⠀
   
   <p align="center">
-    
-<div align="center">
-  <details>
-    <summary>DNI</summary>
-    <br>
-this is wip Kai pls don't slime me ok 
-  <p align="left"
-      <p align="center">
-      
-   </p>
-  </details>
-</div>
+  <img src="https://pixels.crd.co/assets/images/gallery14/680355e0.gif?v=29416114" width="20" alt="App Demo"> ${{\color{#EEF375} •⠀I⠀ Block⠀Freely}}$
+
+  <p align="center"> 
+  <img src="https://pixels.crd.co/assets/images/gallery122/a51277e0.gif?v=29416114" width="25" alt="App Demo"> ${{\color{#EEF375} •⠀CxH ⠀Freely⠀ unless⠀dniup/f}}$
